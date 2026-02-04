@@ -1,0 +1,5 @@
+https://reactnative.dev/docs/navigation
+https://www.w3schools.com/react/react_forms.asp
+https://www.w3schools.com/react/react_first_app.asp
+https://www.w3schools.com/react/react_css_modules.asp
+https://www.w3schools.com/react/react_router.asp

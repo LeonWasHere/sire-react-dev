@@ -1,0 +1,11 @@
+.custombutton {
+    padding: 10px 20 pc;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.login {
+    background-color: #a9afb4;
+    color: rgb(0, 0, 0);
+}
