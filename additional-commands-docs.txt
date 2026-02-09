@@ -2,3 +2,16 @@ Install React Router for Navigation:
 [npm install react-router-dom]
 https://www.w3schools.com/react/react_router.asp
 
+Install Grid for Layout
+[npm install react-grid-layout]
+https://www.npmjs.com/package/react-grid-layout#installation
+
+
+Instead of Installation #2
+Utilize this one instead:
+npm install @material-iui/core --save
+https://www.youtube.com/watch?v=jE6fWdBhbso&t=84s
+With that we need to install MUI v5 or v6:
+npm install @mui/material @emotion/react @emotion/styled
+If you need icons:
+npm install @mui/icons-material

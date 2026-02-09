@@ -1,9 +1,11 @@
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+
 import styles from './Button.module.css';
 
 export function Home() {
     return (
         <div>
-            <h1>Home Page</h1>
+            <h1>S.I.R.E.</h1>
 
             <button 
             className={' ${styles.custombutton} ${styles.login}'}
